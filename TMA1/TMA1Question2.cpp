@@ -24,45 +24,42 @@
  
  Test case 1: Valid data run
  	Input:	Hello my name is Mohammad Yehya Qureshi.
- 			I am 18 years old.
- 			I live in Brampton Ontario.
+ 		I am 18 years old.
+ 			
  			
  	Output: Hello my name is Mohammad Yehya Qureshi.
-			Press the ENTER key to continue
+		Press the ENTER key to continue
 
-			I am 18 years old.
-			Press the ENTER key to continue
-
-			I live in Brampton Ontario.
-			Press the ENTER key to continue
+		I am 18 years old.
+		Press the ENTER key to continue
 
  
  Test case 2: Valid data run
- 	Input: Hello my name is Mohammad Yehya Qureshi. I am 18 years old.I live in Brampton Ontario.
- 	Output: Hello my name is Mohammad Yehya Qureshi. I am 18 years old.I live in Brampton Ontario.
-			Press the ENTER key to continue
+ 	Input: Hello my name is Mohammad Yehya Qureshi. I am 18 years old.
+ 	Output: Hello my name is Mohammad Yehya Qureshi. I am 18 years old.
+		Press the ENTER key to continue
 				
  Test case 3: Valid data run
  	Input: 1
-	 		   2
-	 		   3
-	 		   4
-	 		   5
+	       2
+	       3
+	       4
+	       5
  		    
  	Output: 1
-					Press the ENTER key to continue
+		Press the ENTER key to continue
 		
-					2
-					Press the ENTER key to continue
+		2
+		Press the ENTER key to continue
 		
-					3
-					Press the ENTER key to continue
+		3
+		Press the ENTER key to continue
 		
-					4
-					Press the ENTER key to continue
+		4
+		Press the ENTER key to continue
 		
-					5
-					Press the ENTER key to continue
+		5
+		Press the ENTER key to continue
 
  
  Test case 4: Abnormal data run
