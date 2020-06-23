@@ -60,14 +60,13 @@ int main() {
 		chk = true;
         
 		for (int j = 2; j <= i / 2; j++ ) {
-        
 			if (i % j == 0) {
 				chk = false;
 				break;
-            }
-        }
+            		}
+        	}
         
 		if (chk == true)
 			cout << i << " is Prime" << endl;
-    }
+   	 }
 } ///:~
